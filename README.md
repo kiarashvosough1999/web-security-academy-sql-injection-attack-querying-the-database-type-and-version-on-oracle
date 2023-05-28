@@ -1,0 +1,1 @@
+# web-security-academy-sql-injection-attack-querying-the-database-type-and-version-on-oracle
